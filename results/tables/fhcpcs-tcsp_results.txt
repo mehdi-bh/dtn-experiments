@@ -1,0 +1,96 @@
+Results for Benchmark: fhcpcs-tcsp, Configuration: gecode, max_regret
+ time  satisfaction_percentage
+    0                     0.00
+    5                     3.52
+   10                     6.26
+   15                     8.54
+   20                    10.18
+   25                    11.53
+   30                    12.63
+   35                    13.60
+   40                    14.42
+   45                    15.18
+   50                    15.86
+   55                    16.49
+   60                    17.01
+
+Results for Benchmark: fhcpcs-tcsp, Configuration: gecode, first_fail
+ time  satisfaction_percentage
+    0                     0.00
+    5                     3.40
+   10                     6.31
+   15                     8.39
+   20                     9.91
+   25                    11.44
+   30                    12.61
+   35                    13.50
+   40                    14.34
+   45                    15.08
+   50                    15.70
+   55                    16.27
+   60                    16.81
+
+Results for Benchmark: fhcpcs-tcsp, Configuration: minicp, max_regret
+ time  satisfaction_percentage
+    0                     0.00
+    5                     5.69
+   10                     8.84
+   15                    10.97
+   20                    13.19
+   25                    14.72
+   30                    16.25
+   35                    17.62
+   40                    18.77
+   45                    19.64
+   50                    20.23
+   55                    20.92
+   60                    21.81
+
+Results for Benchmark: fhcpcs-tcsp, Configuration: minicp, first_fail
+ time  satisfaction_percentage
+    0                     0.00
+    5                     6.53
+   10                    10.55
+   15                    12.96
+   20                    15.33
+   25                    17.26
+   30                    18.97
+   35                    20.42
+   40                    21.59
+   45                    22.52
+   50                    23.41
+   55                    23.98
+   60                    24.78
+
+Results for Benchmark: fhcpcs-tcsp, Configuration: chuffed, max_regret
+ time  satisfaction_percentage
+    0                     0.00
+    5                     1.68
+   10                     3.34
+   15                     4.66
+   20                     5.69
+   25                     6.49
+   30                     7.08
+   35                     7.62
+   40                     8.09
+   45                     8.52
+   50                     8.91
+   55                     9.22
+   60                     9.54
+
+Results for Benchmark: fhcpcs-tcsp, Configuration: chuffed, first_fail
+ time  satisfaction_percentage
+    0                     0.00
+    5                     1.52
+   10                     3.31
+   15                     4.59
+   20                     5.59
+   25                     6.35
+   30                     6.97
+   35                     7.53
+   40                     8.00
+   45                     8.45
+   50                     8.86
+   55                     9.14
+   60                     9.44
+

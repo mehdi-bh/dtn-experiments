@@ -1,0 +1,1462 @@
+{
+    "orrz-dtp": {
+        "012.tn": {
+            "nbVariables": 12,
+            "nbConstraints": 50
+        },
+        "016.tn": {
+            "nbVariables": 16,
+            "nbConstraints": 69
+        },
+        "017.tn": {
+            "nbVariables": 17,
+            "nbConstraints": 73
+        },
+        "022.tn": {
+            "nbVariables": 22,
+            "nbConstraints": 96
+        },
+        "024.tn": {
+            "nbVariables": 24,
+            "nbConstraints": 105
+        },
+        "025.tn": {
+            "nbVariables": 25,
+            "nbConstraints": 110
+        },
+        "027.tn": {
+            "nbVariables": 27,
+            "nbConstraints": 119
+        },
+        "028.tn": {
+            "nbVariables": 28,
+            "nbConstraints": 124
+        },
+        "029.tn": {
+            "nbVariables": 29,
+            "nbConstraints": 128
+        },
+        "030.tn": {
+            "nbVariables": 30,
+            "nbConstraints": 133
+        },
+        "033.tn": {
+            "nbVariables": 33,
+            "nbConstraints": 147
+        },
+        "036.tn": {
+            "nbVariables": 36,
+            "nbConstraints": 161
+        },
+        "038.tn": {
+            "nbVariables": 38,
+            "nbConstraints": 170
+        },
+        "039.tn": {
+            "nbVariables": 39,
+            "nbConstraints": 174
+        },
+        "041.tn": {
+            "nbVariables": 41,
+            "nbConstraints": 184
+        },
+        "042.tn": {
+            "nbVariables": 42,
+            "nbConstraints": 188
+        },
+        "043.tn": {
+            "nbVariables": 43,
+            "nbConstraints": 193
+        },
+        "044.tn": {
+            "nbVariables": 44,
+            "nbConstraints": 197
+        },
+        "053.tn": {
+            "nbVariables": 53,
+            "nbConstraints": 239
+        },
+        "054.tn": {
+            "nbVariables": 54,
+            "nbConstraints": 243
+        },
+        "056.tn": {
+            "nbVariables": 56,
+            "nbConstraints": 253
+        },
+        "058.tn": {
+            "nbVariables": 58,
+            "nbConstraints": 262
+        },
+        "059.tn": {
+            "nbVariables": 59,
+            "nbConstraints": 266
+        },
+        "062.tn": {
+            "nbVariables": 62,
+            "nbConstraints": 280
+        },
+        "063.tn": {
+            "nbVariables": 63,
+            "nbConstraints": 285
+        },
+        "064.tn": {
+            "nbVariables": 64,
+            "nbConstraints": 289
+        },
+        "066.tn": {
+            "nbVariables": 66,
+            "nbConstraints": 299
+        },
+        "067.tn": {
+            "nbVariables": 67,
+            "nbConstraints": 303
+        },
+        "068.tn": {
+            "nbVariables": 68,
+            "nbConstraints": 308
+        },
+        "072.tn": {
+            "nbVariables": 72,
+            "nbConstraints": 326
+        },
+        "073.tn": {
+            "nbVariables": 73,
+            "nbConstraints": 331
+        },
+        "074.tn": {
+            "nbVariables": 74,
+            "nbConstraints": 335
+        },
+        "078.tn": {
+            "nbVariables": 78,
+            "nbConstraints": 354
+        },
+        "082.tn": {
+            "nbVariables": 82,
+            "nbConstraints": 372
+        },
+        "086.tn": {
+            "nbVariables": 86,
+            "nbConstraints": 391
+        },
+        "087.tn": {
+            "nbVariables": 87,
+            "nbConstraints": 395
+        },
+        "088.tn": {
+            "nbVariables": 88,
+            "nbConstraints": 400
+        },
+        "091.tn": {
+            "nbVariables": 91,
+            "nbConstraints": 414
+        },
+        "092.tn": {
+            "nbVariables": 92,
+            "nbConstraints": 418
+        },
+        "093.tn": {
+            "nbVariables": 93,
+            "nbConstraints": 423
+        },
+        "094.tn": {
+            "nbVariables": 94,
+            "nbConstraints": 427
+        },
+        "097.tn": {
+            "nbVariables": 97,
+            "nbConstraints": 441
+        },
+        "099.tn": {
+            "nbVariables": 99,
+            "nbConstraints": 450
+        },
+        "101.tn": {
+            "nbVariables": 101,
+            "nbConstraints": 460
+        },
+        "105.tn": {
+            "nbVariables": 105,
+            "nbConstraints": 478
+        },
+        "106.tn": {
+            "nbVariables": 106,
+            "nbConstraints": 483
+        },
+        "107.tn": {
+            "nbVariables": 107,
+            "nbConstraints": 487
+        },
+        "109.tn": {
+            "nbVariables": 109,
+            "nbConstraints": 496
+        },
+        "110.tn": {
+            "nbVariables": 110,
+            "nbConstraints": 501
+        },
+        "112.tn": {
+            "nbVariables": 112,
+            "nbConstraints": 510
+        },
+        "113.tn": {
+            "nbVariables": 113,
+            "nbConstraints": 515
+        },
+        "114.tn": {
+            "nbVariables": 114,
+            "nbConstraints": 519
+        },
+        "115.tn": {
+            "nbVariables": 115,
+            "nbConstraints": 524
+        },
+        "116.tn": {
+            "nbVariables": 116,
+            "nbConstraints": 529
+        },
+        "117.tn": {
+            "nbVariables": 117,
+            "nbConstraints": 533
+        },
+        "118.tn": {
+            "nbVariables": 118,
+            "nbConstraints": 538
+        },
+        "121.tn": {
+            "nbVariables": 121,
+            "nbConstraints": 552
+        },
+        "122.tn": {
+            "nbVariables": 122,
+            "nbConstraints": 556
+        },
+        "125.tn": {
+            "nbVariables": 125,
+            "nbConstraints": 570
+        },
+        "126.tn": {
+            "nbVariables": 126,
+            "nbConstraints": 575
+        },
+        "127.tn": {
+            "nbVariables": 127,
+            "nbConstraints": 579
+        },
+        "128.tn": {
+            "nbVariables": 128,
+            "nbConstraints": 584
+        },
+        "129.tn": {
+            "nbVariables": 129,
+            "nbConstraints": 588
+        },
+        "131.tn": {
+            "nbVariables": 131,
+            "nbConstraints": 598
+        },
+        "133.tn": {
+            "nbVariables": 133,
+            "nbConstraints": 607
+        },
+        "134.tn": {
+            "nbVariables": 134,
+            "nbConstraints": 611
+        },
+        "138.tn": {
+            "nbVariables": 138,
+            "nbConstraints": 630
+        },
+        "146.tn": {
+            "nbVariables": 146,
+            "nbConstraints": 667
+        },
+        "147.tn": {
+            "nbVariables": 147,
+            "nbConstraints": 671
+        },
+        "152.tn": {
+            "nbVariables": 152,
+            "nbConstraints": 694
+        },
+        "154.tn": {
+            "nbVariables": 154,
+            "nbConstraints": 703
+        },
+        "156.tn": {
+            "nbVariables": 156,
+            "nbConstraints": 713
+        },
+        "157.tn": {
+            "nbVariables": 157,
+            "nbConstraints": 717
+        },
+        "159.tn": {
+            "nbVariables": 159,
+            "nbConstraints": 726
+        },
+        "161.tn": {
+            "nbVariables": 161,
+            "nbConstraints": 736
+        },
+        "163.tn": {
+            "nbVariables": 163,
+            "nbConstraints": 745
+        },
+        "165.tn": {
+            "nbVariables": 165,
+            "nbConstraints": 754
+        },
+        "170.tn": {
+            "nbVariables": 170,
+            "nbConstraints": 777
+        },
+        "174.tn": {
+            "nbVariables": 174,
+            "nbConstraints": 795
+        },
+        "176.tn": {
+            "nbVariables": 176,
+            "nbConstraints": 805
+        },
+        "177.tn": {
+            "nbVariables": 177,
+            "nbConstraints": 809
+        },
+        "179.tn": {
+            "nbVariables": 179,
+            "nbConstraints": 818
+        },
+        "181.tn": {
+            "nbVariables": 181,
+            "nbConstraints": 828
+        },
+        "182.tn": {
+            "nbVariables": 182,
+            "nbConstraints": 832
+        },
+        "184.tn": {
+            "nbVariables": 184,
+            "nbConstraints": 841
+        },
+        "187.tn": {
+            "nbVariables": 187,
+            "nbConstraints": 855
+        },
+        "190.tn": {
+            "nbVariables": 190,
+            "nbConstraints": 869
+        },
+        "191.tn": {
+            "nbVariables": 191,
+            "nbConstraints": 874
+        },
+        "193.tn": {
+            "nbVariables": 193,
+            "nbConstraints": 883
+        },
+        "194.tn": {
+            "nbVariables": 194,
+            "nbConstraints": 887
+        },
+        "195.tn": {
+            "nbVariables": 195,
+            "nbConstraints": 892
+        },
+        "196.tn": {
+            "nbVariables": 196,
+            "nbConstraints": 897
+        },
+        "200.tn": {
+            "nbVariables": 200,
+            "nbConstraints": 915
+        },
+        "201.tn": {
+            "nbVariables": 201,
+            "nbConstraints": 920
+        },
+        "202.tn": {
+            "nbVariables": 202,
+            "nbConstraints": 924
+        },
+        "203.tn": {
+            "nbVariables": 203,
+            "nbConstraints": 929
+        },
+        "205.tn": {
+            "nbVariables": 205,
+            "nbConstraints": 938
+        },
+        "206.tn": {
+            "nbVariables": 206,
+            "nbConstraints": 943
+        },
+        "209.tn": {
+            "nbVariables": 209,
+            "nbConstraints": 956
+        },
+        "210.tn": {
+            "nbVariables": 210,
+            "nbConstraints": 961
+        }
+    },
+    "industrial-1-dtp": {
+        "000": {
+            "nbVariables": 42,
+            "nbConstraints": 77
+        },
+        "004": {
+            "nbVariables": 38,
+            "nbConstraints": 61
+        },
+        "005": {
+            "nbVariables": 42,
+            "nbConstraints": 75
+        },
+        "006": {
+            "nbVariables": 35,
+            "nbConstraints": 50
+        },
+        "010": {
+            "nbVariables": 42,
+            "nbConstraints": 85
+        },
+        "014": {
+            "nbVariables": 35,
+            "nbConstraints": 50
+        },
+        "016": {
+            "nbVariables": 43,
+            "nbConstraints": 62
+        },
+        "017": {
+            "nbVariables": 31,
+            "nbConstraints": 45
+        },
+        "018": {
+            "nbVariables": 39,
+            "nbConstraints": 68
+        },
+        "019": {
+            "nbVariables": 38,
+            "nbConstraints": 67
+        },
+        "020": {
+            "nbVariables": 44,
+            "nbConstraints": 75
+        },
+        "023": {
+            "nbVariables": 48,
+            "nbConstraints": 99
+        },
+        "024": {
+            "nbVariables": 51,
+            "nbConstraints": 128
+        },
+        "025": {
+            "nbVariables": 61,
+            "nbConstraints": 158
+        },
+        "030": {
+            "nbVariables": 65,
+            "nbConstraints": 171
+        },
+        "034": {
+            "nbVariables": 58,
+            "nbConstraints": 156
+        },
+        "035": {
+            "nbVariables": 51,
+            "nbConstraints": 98
+        },
+        "036": {
+            "nbVariables": 59,
+            "nbConstraints": 145
+        },
+        "040": {
+            "nbVariables": 44,
+            "nbConstraints": 79
+        },
+        "041": {
+            "nbVariables": 48,
+            "nbConstraints": 75
+        },
+        "045": {
+            "nbVariables": 51,
+            "nbConstraints": 112
+        },
+        "048": {
+            "nbVariables": 55,
+            "nbConstraints": 106
+        },
+        "049": {
+            "nbVariables": 55,
+            "nbConstraints": 114
+        },
+        "051": {
+            "nbVariables": 55,
+            "nbConstraints": 92
+        },
+        "054": {
+            "nbVariables": 51,
+            "nbConstraints": 90
+        },
+        "055": {
+            "nbVariables": 63,
+            "nbConstraints": 153
+        },
+        "059": {
+            "nbVariables": 51,
+            "nbConstraints": 102
+        },
+        "062": {
+            "nbVariables": 55,
+            "nbConstraints": 90
+        },
+        "065": {
+            "nbVariables": 55,
+            "nbConstraints": 116
+        },
+        "066": {
+            "nbVariables": 59,
+            "nbConstraints": 106
+        },
+        "067": {
+            "nbVariables": 59,
+            "nbConstraints": 117
+        },
+        "072": {
+            "nbVariables": 55,
+            "nbConstraints": 104
+        },
+        "075": {
+            "nbVariables": 55,
+            "nbConstraints": 91
+        },
+        "076": {
+            "nbVariables": 42,
+            "nbConstraints": 78
+        },
+        "079": {
+            "nbVariables": 50,
+            "nbConstraints": 69
+        },
+        "081": {
+            "nbVariables": 42,
+            "nbConstraints": 90
+        },
+        "082": {
+            "nbVariables": 52,
+            "nbConstraints": 126
+        },
+        "086": {
+            "nbVariables": 74,
+            "nbConstraints": 168
+        },
+        "088": {
+            "nbVariables": 81,
+            "nbConstraints": 157
+        },
+        "091": {
+            "nbVariables": 63,
+            "nbConstraints": 133
+        },
+        "093": {
+            "nbVariables": 66,
+            "nbConstraints": 177
+        },
+        "097": {
+            "nbVariables": 81,
+            "nbConstraints": 191
+        },
+        "101": {
+            "nbVariables": 70,
+            "nbConstraints": 178
+        },
+        "111": {
+            "nbVariables": 97,
+            "nbConstraints": 188
+        },
+        "112": {
+            "nbVariables": 97,
+            "nbConstraints": 195
+        },
+        "113": {
+            "nbVariables": 93,
+            "nbConstraints": 195
+        },
+        "115": {
+            "nbVariables": 93,
+            "nbConstraints": 173
+        },
+        "117": {
+            "nbVariables": 93,
+            "nbConstraints": 194
+        },
+        "118": {
+            "nbVariables": 97,
+            "nbConstraints": 210
+        },
+        "122": {
+            "nbVariables": 97,
+            "nbConstraints": 194
+        },
+        "123": {
+            "nbVariables": 93,
+            "nbConstraints": 176
+        },
+        "126": {
+            "nbVariables": 89,
+            "nbConstraints": 169
+        },
+        "127": {
+            "nbVariables": 93,
+            "nbConstraints": 236
+        },
+        "129": {
+            "nbVariables": 101,
+            "nbConstraints": 190
+        },
+        "131": {
+            "nbVariables": 89,
+            "nbConstraints": 181
+        },
+        "132": {
+            "nbVariables": 97,
+            "nbConstraints": 206
+        },
+        "134": {
+            "nbVariables": 89,
+            "nbConstraints": 228
+        },
+        "136": {
+            "nbVariables": 85,
+            "nbConstraints": 186
+        },
+        "137": {
+            "nbVariables": 89,
+            "nbConstraints": 208
+        },
+        "138": {
+            "nbVariables": 93,
+            "nbConstraints": 179
+        },
+        "142": {
+            "nbVariables": 66,
+            "nbConstraints": 162
+        },
+        "147": {
+            "nbVariables": 63,
+            "nbConstraints": 138
+        },
+        "149": {
+            "nbVariables": 63,
+            "nbConstraints": 147
+        },
+        "150": {
+            "nbVariables": 63,
+            "nbConstraints": 160
+        },
+        "151": {
+            "nbVariables": 85,
+            "nbConstraints": 265
+        },
+        "153": {
+            "nbVariables": 74,
+            "nbConstraints": 152
+        },
+        "154": {
+            "nbVariables": 73,
+            "nbConstraints": 195
+        },
+        "158": {
+            "nbVariables": 115,
+            "nbConstraints": 275
+        },
+        "163": {
+            "nbVariables": 116,
+            "nbConstraints": 401
+        },
+        "165": {
+            "nbVariables": 124,
+            "nbConstraints": 314
+        },
+        "166": {
+            "nbVariables": 111,
+            "nbConstraints": 255
+        },
+        "171": {
+            "nbVariables": 121,
+            "nbConstraints": 242
+        },
+        "174": {
+            "nbVariables": 125,
+            "nbConstraints": 263
+        },
+        "175": {
+            "nbVariables": 133,
+            "nbConstraints": 264
+        },
+        "176": {
+            "nbVariables": 125,
+            "nbConstraints": 253
+        },
+        "179": {
+            "nbVariables": 125,
+            "nbConstraints": 239
+        },
+        "180": {
+            "nbVariables": 117,
+            "nbConstraints": 250
+        },
+        "181": {
+            "nbVariables": 125,
+            "nbConstraints": 267
+        },
+        "184": {
+            "nbVariables": 125,
+            "nbConstraints": 255
+        },
+        "185": {
+            "nbVariables": 121,
+            "nbConstraints": 258
+        },
+        "186": {
+            "nbVariables": 129,
+            "nbConstraints": 271
+        },
+        "187": {
+            "nbVariables": 113,
+            "nbConstraints": 255
+        },
+        "188": {
+            "nbVariables": 119,
+            "nbConstraints": 257
+        },
+        "189": {
+            "nbVariables": 111,
+            "nbConstraints": 240
+        },
+        "191": {
+            "nbVariables": 119,
+            "nbConstraints": 281
+        },
+        "193": {
+            "nbVariables": 115,
+            "nbConstraints": 316
+        },
+        "196": {
+            "nbVariables": 147,
+            "nbConstraints": 459
+        },
+        "199": {
+            "nbVariables": 124,
+            "nbConstraints": 371
+        },
+        "203": {
+            "nbVariables": 130,
+            "nbConstraints": 345
+        },
+        "204": {
+            "nbVariables": 161,
+            "nbConstraints": 371
+        },
+        "205": {
+            "nbVariables": 161,
+            "nbConstraints": 359
+        },
+        "206": {
+            "nbVariables": 161,
+            "nbConstraints": 348
+        },
+        "207": {
+            "nbVariables": 149,
+            "nbConstraints": 355
+        },
+        "212": {
+            "nbVariables": 145,
+            "nbConstraints": 363
+        },
+        "214": {
+            "nbVariables": 161,
+            "nbConstraints": 372
+        },
+        "225": {
+            "nbVariables": 153,
+            "nbConstraints": 348
+        },
+        "228": {
+            "nbVariables": 145,
+            "nbConstraints": 343
+        },
+        "229": {
+            "nbVariables": 145,
+            "nbConstraints": 402
+        },
+        "230": {
+            "nbVariables": 145,
+            "nbConstraints": 322
+        },
+        "231": {
+            "nbVariables": 147,
+            "nbConstraints": 408
+        }
+    },
+    "fhcpcs-tcsp": {
+        "graph0001": {
+            "nbVariables": 67,
+            "nbConstraints": 2211
+        },
+        "graph0002": {
+            "nbVariables": 71,
+            "nbConstraints": 2485
+        },
+        "graph0003": {
+            "nbVariables": 79,
+            "nbConstraints": 3081
+        },
+        "graph0004": {
+            "nbVariables": 85,
+            "nbConstraints": 3570
+        },
+        "graph0005": {
+            "nbVariables": 91,
+            "nbConstraints": 4095
+        },
+        "graph0006": {
+            "nbVariables": 95,
+            "nbConstraints": 4465
+        },
+        "graph0007": {
+            "nbVariables": 103,
+            "nbConstraints": 5253
+        },
+        "graph0008": {
+            "nbVariables": 109,
+            "nbConstraints": 5886
+        },
+        "graph0009": {
+            "nbVariables": 115,
+            "nbConstraints": 6555
+        },
+        "graph0010": {
+            "nbVariables": 119,
+            "nbConstraints": 7021
+        },
+        "graph0011": {
+            "nbVariables": 127,
+            "nbConstraints": 8001
+        },
+        "graph0012": {
+            "nbVariables": 133,
+            "nbConstraints": 8778
+        },
+        "graph0013": {
+            "nbVariables": 139,
+            "nbConstraints": 9591
+        },
+        "graph0014": {
+            "nbVariables": 143,
+            "nbConstraints": 10153
+        },
+        "graph0015": {
+            "nbVariables": 151,
+            "nbConstraints": 11325
+        },
+        "graph0016": {
+            "nbVariables": 157,
+            "nbConstraints": 12246
+        },
+        "graph0017": {
+            "nbVariables": 163,
+            "nbConstraints": 13203
+        },
+        "graph0018": {
+            "nbVariables": 167,
+            "nbConstraints": 13861
+        },
+        "graph0019": {
+            "nbVariables": 171,
+            "nbConstraints": 14535
+        },
+        "graph0020": {
+            "nbVariables": 175,
+            "nbConstraints": 15225
+        },
+        "graph0021": {
+            "nbVariables": 181,
+            "nbConstraints": 16290
+        },
+        "graph0022": {
+            "nbVariables": 187,
+            "nbConstraints": 17391
+        },
+        "graph0023": {
+            "nbVariables": 191,
+            "nbConstraints": 18145
+        },
+        "graph0024": {
+            "nbVariables": 199,
+            "nbConstraints": 19701
+        },
+        "graph0025": {
+            "nbVariables": 205,
+            "nbConstraints": 20910
+        },
+        "graph0026": {
+            "nbVariables": 211,
+            "nbConstraints": 22155
+        },
+        "graph0027": {
+            "nbVariables": 215,
+            "nbConstraints": 23005
+        },
+        "graph0028": {
+            "nbVariables": 223,
+            "nbConstraints": 24753
+        },
+        "graph0029": {
+            "nbVariables": 229,
+            "nbConstraints": 26106
+        },
+        "graph0030": {
+            "nbVariables": 235,
+            "nbConstraints": 27495
+        },
+        "graph0031": {
+            "nbVariables": 239,
+            "nbConstraints": 28441
+        },
+        "graph0032": {
+            "nbVariables": 247,
+            "nbConstraints": 30381
+        },
+        "graph0033": {
+            "nbVariables": 253,
+            "nbConstraints": 31878
+        },
+        "graph0034": {
+            "nbVariables": 259,
+            "nbConstraints": 33411
+        },
+        "graph0035": {
+            "nbVariables": 263,
+            "nbConstraints": 34453
+        },
+        "graph0036": {
+            "nbVariables": 271,
+            "nbConstraints": 36585
+        },
+        "graph0037": {
+            "nbVariables": 277,
+            "nbConstraints": 38226
+        },
+        "graph0038": {
+            "nbVariables": 283,
+            "nbConstraints": 39903
+        },
+        "graph0039": {
+            "nbVariables": 287,
+            "nbConstraints": 41041
+        },
+        "graph0040": {
+            "nbVariables": 295,
+            "nbConstraints": 43365
+        },
+        "graph0041": {
+            "nbVariables": 301,
+            "nbConstraints": 45150
+        },
+        "graph0042": {
+            "nbVariables": 307,
+            "nbConstraints": 46971
+        },
+        "graph0043": {
+            "nbVariables": 311,
+            "nbConstraints": 48205
+        },
+        "graph0044": {
+            "nbVariables": 319,
+            "nbConstraints": 50721
+        },
+        "graph0045": {
+            "nbVariables": 325,
+            "nbConstraints": 52650
+        },
+        "graph0046": {
+            "nbVariables": 331,
+            "nbConstraints": 54615
+        },
+        "graph0047": {
+            "nbVariables": 335,
+            "nbConstraints": 55945
+        },
+        "graph0048": {
+            "nbVariables": 339,
+            "nbConstraints": 57291
+        },
+        "graph0049": {
+            "nbVariables": 343,
+            "nbConstraints": 58653
+        },
+        "graph0050": {
+            "nbVariables": 349,
+            "nbConstraints": 60726
+        },
+        "graph0051": {
+            "nbVariables": 355,
+            "nbConstraints": 62835
+        },
+        "graph0052": {
+            "nbVariables": 359,
+            "nbConstraints": 64261
+        },
+        "graph0053": {
+            "nbVariables": 367,
+            "nbConstraints": 67161
+        },
+        "graph0054": {
+            "nbVariables": 373,
+            "nbConstraints": 69378
+        },
+        "graph0055": {
+            "nbVariables": 379,
+            "nbConstraints": 71631
+        },
+        "graph0056": {
+            "nbVariables": 383,
+            "nbConstraints": 73153
+        },
+        "graph0057": {
+            "nbVariables": 391,
+            "nbConstraints": 76245
+        },
+        "graph0058": {
+            "nbVariables": 397,
+            "nbConstraints": 78606
+        },
+        "graph0059": {
+            "nbVariables": 401,
+            "nbConstraints": 80200
+        },
+        "graph0060": {
+            "nbVariables": 403,
+            "nbConstraints": 81003
+        },
+        "graph0061": {
+            "nbVariables": 407,
+            "nbConstraints": 82621
+        },
+        "graph0062": {
+            "nbVariables": 409,
+            "nbConstraints": 83436
+        },
+        "graph0063": {
+            "nbVariables": 415,
+            "nbConstraints": 85905
+        },
+        "graph0064": {
+            "nbVariables": 417,
+            "nbConstraints": 86736
+        },
+        "graph0065": {
+            "nbVariables": 421,
+            "nbConstraints": 88410
+        },
+        "graph0066": {
+            "nbVariables": 427,
+            "nbConstraints": 90951
+        },
+        "graph0067": {
+            "nbVariables": 431,
+            "nbConstraints": 92665
+        },
+        "graph0068": {
+            "nbVariables": 439,
+            "nbConstraints": 96141
+        },
+        "graph0069": {
+            "nbVariables": 445,
+            "nbConstraints": 98790
+        },
+        "graph0070": {
+            "nbVariables": 451,
+            "nbConstraints": 101475
+        },
+        "graph0071": {
+            "nbVariables": 455,
+            "nbConstraints": 103285
+        },
+        "graph0072": {
+            "nbVariables": 461,
+            "nbConstraints": 106030
+        },
+        "graph0073": {
+            "nbVariables": 463,
+            "nbConstraints": 106953
+        },
+        "graph0074": {
+            "nbVariables": 463,
+            "nbConstraints": 106953
+        },
+        "graph0075": {
+            "nbVariables": 469,
+            "nbConstraints": 109746
+        },
+        "graph0076": {
+            "nbVariables": 472,
+            "nbConstraints": 111156
+        },
+        "graph0077": {
+            "nbVariables": 475,
+            "nbConstraints": 112575
+        },
+        "graph0078": {
+            "nbVariables": 479,
+            "nbConstraints": 114481
+        },
+        "graph0079": {
+            "nbVariables": 481,
+            "nbConstraints": 115440
+        },
+        "graph0080": {
+            "nbVariables": 487,
+            "nbConstraints": 118341
+        },
+        "graph0081": {
+            "nbVariables": 493,
+            "nbConstraints": 121278
+        },
+        "graph0082": {
+            "nbVariables": 497,
+            "nbConstraints": 123256
+        },
+        "graph0083": {
+            "nbVariables": 499,
+            "nbConstraints": 124251
+        },
+        "graph0084": {
+            "nbVariables": 501,
+            "nbConstraints": 125250
+        },
+        "graph0085": {
+            "nbVariables": 503,
+            "nbConstraints": 126253
+        },
+        "graph0086": {
+            "nbVariables": 504,
+            "nbConstraints": 126756
+        },
+        "graph0087": {
+            "nbVariables": 508,
+            "nbConstraints": 128778
+        },
+        "graph0088": {
+            "nbVariables": 508,
+            "nbConstraints": 128778
+        },
+        "graph0089": {
+            "nbVariables": 511,
+            "nbConstraints": 130305
+        },
+        "graph0090": {
+            "nbVariables": 511,
+            "nbConstraints": 130305
+        },
+        "graph0091": {
+            "nbVariables": 517,
+            "nbConstraints": 133386
+        },
+        "graph0092": {
+            "nbVariables": 523,
+            "nbConstraints": 136503
+        },
+        "graph0093": {
+            "nbVariables": 527,
+            "nbConstraints": 138601
+        },
+        "graph0094": {
+            "nbVariables": 535,
+            "nbConstraints": 142845
+        },
+        "graph0095": {
+            "nbVariables": 541,
+            "nbConstraints": 146070
+        },
+        "graph0096": {
+            "nbVariables": 541,
+            "nbConstraints": 146070
+        },
+        "graph0097": {
+            "nbVariables": 547,
+            "nbConstraints": 149331
+        },
+        "graph0098": {
+            "nbVariables": 547,
+            "nbConstraints": 149331
+        },
+        "graph0099": {
+            "nbVariables": 551,
+            "nbConstraints": 151525
+        },
+        "graph0100": {
+            "nbVariables": 559,
+            "nbConstraints": 155961
+        }
+    },
+    "dimacs-gc-tcsp": {
+        "1-Insertions_4.col": {
+            "nbVariables": 68,
+            "nbConstraints": 299
+        },
+        "2-Insertions_3.col": {
+            "nbVariables": 38,
+            "nbConstraints": 109
+        },
+        "2-Insertions_4.col": {
+            "nbVariables": 150,
+            "nbConstraints": 690
+        },
+        "3-Insertions_3.col": {
+            "nbVariables": 57,
+            "nbConstraints": 166
+        },
+        "4-Insertions_3.col": {
+            "nbVariables": 80,
+            "nbConstraints": 235
+        },
+        "anna.col": {
+            "nbVariables": 139,
+            "nbConstraints": 631
+        },
+        "david.col": {
+            "nbVariables": 88,
+            "nbConstraints": 493
+        },
+        "fpsol2.i.1.col": {
+            "nbVariables": 497,
+            "nbConstraints": 12150
+        },
+        "fpsol2.i.2.col": {
+            "nbVariables": 452,
+            "nbConstraints": 9142
+        },
+        "fpsol2.i.3.col": {
+            "nbVariables": 426,
+            "nbConstraints": 9113
+        },
+        "games120.col": {
+            "nbVariables": 121,
+            "nbConstraints": 758
+        },
+        "homer.col": {
+            "nbVariables": 562,
+            "nbConstraints": 2189
+        },
+        "huck.col": {
+            "nbVariables": 75,
+            "nbConstraints": 375
+        },
+        "inithx.i.1.col": {
+            "nbVariables": 865,
+            "nbConstraints": 19571
+        },
+        "inithx.i.2.col": {
+            "nbVariables": 646,
+            "nbConstraints": 14624
+        },
+        "inithx.i.3.col": {
+            "nbVariables": 622,
+            "nbConstraints": 14590
+        },
+        "jean.col": {
+            "nbVariables": 81,
+            "nbConstraints": 334
+        },
+        "le450_5a.col": {
+            "nbVariables": 451,
+            "nbConstraints": 6164
+        },
+        "le450_5b.col": {
+            "nbVariables": 451,
+            "nbConstraints": 6184
+        },
+        "le450_5c.col": {
+            "nbVariables": 451,
+            "nbConstraints": 10253
+        },
+        "le450_5d.col": {
+            "nbVariables": 451,
+            "nbConstraints": 10207
+        },
+        "le450_15a.col": {
+            "nbVariables": 451,
+            "nbConstraints": 8618
+        },
+        "le450_15b.col": {
+            "nbVariables": 451,
+            "nbConstraints": 8619
+        },
+        "le450_15c.col": {
+            "nbVariables": 451,
+            "nbConstraints": 17130
+        },
+        "le450_15d.col": {
+            "nbVariables": 451,
+            "nbConstraints": 17200
+        },
+        "le450_25a.col": {
+            "nbVariables": 451,
+            "nbConstraints": 8710
+        },
+        "le450_25b.col": {
+            "nbVariables": 451,
+            "nbConstraints": 8713
+        },
+        "le450_25c.col": {
+            "nbVariables": 451,
+            "nbConstraints": 17793
+        },
+        "le450_25d.col": {
+            "nbVariables": 451,
+            "nbConstraints": 17875
+        },
+        "miles250.col": {
+            "nbVariables": 129,
+            "nbConstraints": 515
+        },
+        "miles500.col": {
+            "nbVariables": 129,
+            "nbConstraints": 1298
+        },
+        "miles750.col": {
+            "nbVariables": 129,
+            "nbConstraints": 2241
+        },
+        "miles1000.col": {
+            "nbVariables": 129,
+            "nbConstraints": 3344
+        },
+        "miles1500.col": {
+            "nbVariables": 129,
+            "nbConstraints": 5326
+        },
+        "mug88_1.col": {
+            "nbVariables": 89,
+            "nbConstraints": 234
+        },
+        "mug88_25.col": {
+            "nbVariables": 89,
+            "nbConstraints": 234
+        },
+        "mug100_1.col": {
+            "nbVariables": 101,
+            "nbConstraints": 266
+        },
+        "mug100_25.col": {
+            "nbVariables": 101,
+            "nbConstraints": 266
+        },
+        "mulsol.i.1.col": {
+            "nbVariables": 198,
+            "nbConstraints": 4122
+        },
+        "mulsol.i.2.col": {
+            "nbVariables": 189,
+            "nbConstraints": 4073
+        },
+        "mulsol.i.3.col": {
+            "nbVariables": 185,
+            "nbConstraints": 4100
+        },
+        "mulsol.i.4.col": {
+            "nbVariables": 186,
+            "nbConstraints": 4131
+        },
+        "mulsol.i.5.col": {
+            "nbVariables": 187,
+            "nbConstraints": 4159
+        },
+        "myciel3.col": {
+            "nbVariables": 12,
+            "nbConstraints": 31
+        },
+        "myciel4.col": {
+            "nbVariables": 24,
+            "nbConstraints": 94
+        },
+        "myciel5.col": {
+            "nbVariables": 48,
+            "nbConstraints": 283
+        },
+        "myciel6.col": {
+            "nbVariables": 96,
+            "nbConstraints": 850
+        },
+        "myciel7.col": {
+            "nbVariables": 192,
+            "nbConstraints": 2551
+        },
+        "qg.order30.col": {
+            "nbVariables": 901,
+            "nbConstraints": 27000
+        },
+        "qg.order40.col": {
+            "nbVariables": 1601,
+            "nbConstraints": 64000
+        },
+        "qg.order60.col": {
+            "nbVariables": 3601,
+            "nbConstraints": 216000
+        },
+        "qg.order100.col": {
+            "nbVariables": 10001,
+            "nbConstraints": 1000000
+        },
+        "queen5_5.col": {
+            "nbVariables": 26,
+            "nbConstraints": 185
+        },
+        "queen6_6.col": {
+            "nbVariables": 37,
+            "nbConstraints": 326
+        },
+        "queen7_7.col": {
+            "nbVariables": 50,
+            "nbConstraints": 525
+        },
+        "queen8_8.col": {
+            "nbVariables": 65,
+            "nbConstraints": 792
+        },
+        "queen8_12.col": {
+            "nbVariables": 97,
+            "nbConstraints": 1464
+        },
+        "queen9_9.col": {
+            "nbVariables": 82,
+            "nbConstraints": 1137
+        },
+        "queen11_11.col": {
+            "nbVariables": 122,
+            "nbConstraints": 2101
+        },
+        "queen13_13.col": {
+            "nbVariables": 170,
+            "nbConstraints": 3497
+        },
+        "zeroin.i.1.col": {
+            "nbVariables": 212,
+            "nbConstraints": 4311
+        },
+        "zeroin.i.2.col": {
+            "nbVariables": 212,
+            "nbConstraints": 3752
+        },
+        "zeroin.i.3.col": {
+            "nbVariables": 207,
+            "nbConstraints": 3746
+        }
+    }
+}

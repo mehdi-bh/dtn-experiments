@@ -1,0 +1,96 @@
+Results for Benchmark: industrial-1-dtp, Configuration: gecode, max_regret
+ time  satisfaction_percentage
+    0                     0.00
+    5                    56.97
+   10                    57.05
+   15                    57.10
+   20                    57.13
+   25                    57.15
+   30                    57.18
+   35                    57.28
+   40                    57.28
+   45                    57.29
+   50                    57.30
+   55                    57.30
+   60                    57.31
+
+Results for Benchmark: industrial-1-dtp, Configuration: gecode, first_fail
+ time  satisfaction_percentage
+    0                     0.00
+    5                    56.98
+   10                    57.05
+   15                    57.11
+   20                    57.13
+   25                    57.15
+   30                    57.26
+   35                    57.28
+   40                    57.29
+   45                    57.29
+   50                    57.30
+   55                    57.31
+   60                    57.31
+
+Results for Benchmark: industrial-1-dtp, Configuration: minicp, max_regret
+ time  satisfaction_percentage
+    0                     0.00
+    5                    66.25
+   10                    72.65
+   15                    75.89
+   20                    77.66
+   25                    79.08
+   30                    79.53
+   35                    80.10
+   40                    80.47
+   45                    80.86
+   50                    81.27
+   55                    81.51
+   60                    82.38
+
+Results for Benchmark: industrial-1-dtp, Configuration: minicp, first_fail
+ time  satisfaction_percentage
+    0                     0.00
+    5                    60.54
+   10                    63.81
+   15                    67.74
+   20                    71.19
+   25                    72.72
+   30                    73.93
+   35                    74.94
+   40                    75.60
+   45                    76.39
+   50                    76.73
+   55                    77.07
+   60                    77.52
+
+Results for Benchmark: industrial-1-dtp, Configuration: chuffed, max_regret
+ time  satisfaction_percentage
+    0                     0.00
+    5                    68.90
+   10                    69.17
+   15                    69.67
+   20                    69.86
+   25                    70.02
+   30                    70.09
+   35                    70.14
+   40                    70.20
+   45                    70.23
+   50                    70.26
+   55                    70.29
+   60                    70.32
+
+Results for Benchmark: industrial-1-dtp, Configuration: chuffed, first_fail
+ time  satisfaction_percentage
+    0                     0.00
+    5                    68.46
+   10                    68.76
+   15                    69.07
+   20                    69.46
+   25                    69.57
+   30                    69.64
+   35                    69.74
+   40                    69.81
+   45                    69.84
+   50                    69.88
+   55                    69.90
+   60                    69.97
+
